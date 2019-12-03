@@ -10,7 +10,7 @@ Compiler and Interpreter Project Space
 "let x = 5 + 5;"
 
 - What is born from that is:
-		[ 
+		"[ 
 			LET,
 			IDENTIFIER("x"),
 			EQUAL_SIGN,
@@ -18,4 +18,4 @@ Compiler and Interpreter Project Space
 			PLUS_SIGN,
 			INTEGER(5),
 			SEMICOLON
-		]
+		]"
