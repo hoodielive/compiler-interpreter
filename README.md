@@ -10,12 +10,21 @@ Compiler and Interpreter Project Space
 "let x = 5 + 5;"
 
 - What is born from that is:
-		"[ 
-			LET,
-			IDENTIFIER("x"),
-			EQUAL_SIGN,
-			INTEGER(5),
-			PLUS_SIGN,
-			INTEGER(5),
-			SEMICOLON
-		]"
+
+"[ 			
+
+LET,
+
+IDENTIFIER("x"),
+
+EQUAL_SIGN,
+
+INTEGER(5),
+
+PLUS_SIGN,
+
+INTEGER(5),
+
+SEMICOLON
+
+]"
