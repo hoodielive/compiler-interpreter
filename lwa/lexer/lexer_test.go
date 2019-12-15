@@ -5,6 +5,7 @@ import (
 	"testing"
 )
 
+// lets go.
 func TestNextToken(t *testing.T) {
 	input := `=+(){},;`
 
